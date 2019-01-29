@@ -5,4 +5,4 @@ GANAK is used to calculate the execution time of different programing languages 
 
 Programming Language used:- Python, Java, C , C++ and R.
 
-![alt text](https://github.com/jainhere/GANAK/master/Capture.PNG)
+![alt text](https://githubusercontent.com/jainhere/GANAK/master/Capture.PNG)
